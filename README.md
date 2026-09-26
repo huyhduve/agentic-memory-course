@@ -1,3 +1,6 @@
+Personal Study & Experimentation Note:
+This repository is a personal fork of ALucek/agentic-memory used for running, debugging, and studying interactive notebooks on LLM Agent memory architectures.
+
 # Agent Memory - Can LLMs *Really* Think?
 
 <img src="./media/memory.png" width=600>
